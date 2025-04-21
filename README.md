@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🔭 I’m currently working on Cefalo Bangladesh Ltd. as an Associate Software Engineer.
+🔭 I’m currently working on Cefalo Bangladesh Ltd. as an Software Engineer.
 
 📫 How to reach me: hasebulhassan21@gmail.com,linkedin.com/in/hasebul, github.com/Hasebul21.
 
