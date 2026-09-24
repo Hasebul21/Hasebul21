@@ -5,145 +5,130 @@
 </p>
 
 <p align="center">
-  Platform &amp; cloud engineering by day — Kubernetes, API gateways, edge caching and CI/CD<br/>
-  for a high-traffic news publishing platform.<br/>
-  Building products in public with TypeScript, Java &amp; Spring.
+  I build and run backend and platform systems for Norwegian product teams — Java and Kotlin<br/>
+  services, Kubernetes, API gateways and edge caching — and publish applied machine learning<br/>
+  research on the side.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasebul21&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <a href="https://linkedin.com/in/hasebul"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://hasebul21.github.io/"><img src="https://img.shields.io/badge/Portfolio-hasebul21.github.io-111111?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/hasebul"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hasebulhassan21@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://orcid.org/0009-0000-7889-5412"><img src="https://img.shields.io/badge/ORCID-0009--0000--7889--5412-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
 ---
 
-## What I work on now
+## What I work on
 
-**Platform &amp; cloud (day job).** I work on the infrastructure behind a high-traffic
-news publishing platform — containerised Java/Spring services on **Kubernetes**, traffic
-shaped through an **API gateway** and **CDN / edge cache** layer, with deployments
-reconciled by **GitOps**. Day to day that means rollout and release plumbing, observability
-in **Elasticsearch**, and the unglamorous work of keeping shared infrastructure boring:
-thinking about blast radius, reversibility, and what the on-call engineer sees at 03:00.
-Most of this lives in private repositories, so it won't show up in the graph below.
+**Platform and edge engineering.** I work on the infrastructure behind a high-traffic news
+publishing platform: the gateway and caching tier built on **Kong**, **Varnish** and **Fastly**
+and managed through **Terraform/OpenTofu**, **Kubernetes** workloads on EKS reconciled by
+**ArgoCD** and **Kustomize**, and a shared **GitHub Actions** library for image builds, coverage
+reporting and policy checks. Most of it lives in private repositories, so it will not show up in
+the graph below.
 
-**Products in public.** What you *can* browse here is the other half — full-stack
-applications I build to learn things properly rather than skim them:
+**Product and backend engineering.** Before that, Java, Kotlin, Spring and Angular work on an
+archive platform and a hotel property management system, plus a TypeScript and NestJS applicant
+tracking system. The recurring themes are database performance, caching, observability in
+Elasticsearch, and delivery pipelines.
 
-- **[trading-portfolio](https://github.com/Hasebul21/trading-portfolio)** — portfolio tracking, TypeScript + PostgreSQL
-- **[trackr.jobs](https://github.com/Hasebul21/trackr.jobs)** — job application tracker
-- **[PaperTrail](https://github.com/Hasebul21/PaperTrail)** — document workflow app
-- **[quick-chat](https://github.com/Hasebul21/quick-chat)** — real-time chat, Spring Boot + Angular, Dockerised
-
-**Currently learning.** Applied GenAI — **LangChain** pipelines and wiring LLMs into
-Spring services ([ai-powered-spring-apps](https://github.com/Hasebul21/ai-powered-spring-apps),
-[generative-ai-using-langchain](https://github.com/Hasebul21/generative-ai-using-langchain)) —
-plus deepening the cloud/SRE fundamentals the day job keeps demanding.
+**Applied machine learning.** Three IEEE conference papers in 2026 on prediction and decision
+support, listed below. I am now working toward graduate study in AI and software systems.
 
 ---
 
-## Tech Stack
+## Clients I build software for
 
-**Languages**
+Through Cefalo I work with Norwegian and Nordic product organisations.
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-**Data &amp; Search**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-
-**Platform &amp; Cloud**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Kong](https://img.shields.io/badge/Kong-003459?style=flat-square&logo=kong&logoColor=white)
-![Varnish](https://img.shields.io/badge/Varnish-C42127?style=flat-square&logoColor=white)
-
-**CI/CD &amp; AI**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+| Client | What it is | My work |
+| --- | --- | --- |
+| **[DN Media Group](https://www.dngroup.com/)** | Oslo media group publishing business journalism since 1889, including *Dagens Næringsliv*, *TradeWinds*, *Upstream*, *IntraFish* and *Recharge* | Edge and gateway tier, Kubernetes GitOps, shared CI workflows |
+| **[Stiftelsen Asta](https://www.stiftelsenasta.no/)** | Oslo foundation for archive arrangement, digitisation and electronic archives; builds the Asta 7 platform and Arkivportalen | Java and Kotlin backend, import and export performance, JUnit 5, Docker |
+| **[Zaui Stay](https://offer.zaui.com/partnersolutions/stay/)** | Cloud property management system for hotels, with booking engine, channel manager and point of sale | Java backend and API integrations, Angular i18n across 20+ markets |
 
 ---
 
-## Certifications &amp; Writing
+## Selected projects
 
-<!-- Fill these in as you earn / publish them. Delete any line you don't need. -->
+What you can browse here is the other half of the work: applications I build to learn things
+properly rather than skim them.
 
-- **Certifications:** _in progress — AWS / CKA / PSM_
-- **Portfolio:** [hasebul.devfolio](https://github.com/Hasebul21/hasebul.devfolio) · [Hasebul21.github.io](https://hasebul21.github.io/)
-- **Notes &amp; write-ups:** [cloud-sre-journey](https://github.com/Hasebul21/cloud-sre-journey) · [tech-interview-prep](https://github.com/Hasebul21/tech-interview-prep)
+- **[trackr.jobs](https://github.com/Hasebul21/trackr.jobs)** — job application tracker, TypeScript
+- **[PaperTrail](https://github.com/Hasebul21/PaperTrail)** — document workflow application, TypeScript
+- **[quick-chat](https://github.com/Hasebul21/quick-chat)** — real-time chat, Spring Boot and Angular, Dockerised
+- **[ai-powered-spring-apps](https://github.com/Hasebul21/ai-powered-spring-apps)** — wiring LLMs into Spring services
+- **[cloud-sre-journey](https://github.com/Hasebul21/cloud-sre-journey)** — notes and write-ups from the platform work
+
+---
+
+## Research
+
+Three peer-reviewed IEEE conference papers in applied machine learning, 2026.
+
+- **Comparative Machine Learning Analysis of Gen Z's Clothing Consumption Behavior** — IEEE ICSSAS 2026, Erode, India · *Published* · [DOI](https://doi.org/10.1109/ICSSAS68835.2026.11559342)
+- **AI-Enhanced Prediction of Respiratory Irritation From Biomass Combustion Byproducts** — IEEE ICCCES 2026, Coimbatore, India · *Accepted* · [DOI](https://doi.org/10.1109/ICCCES62661.2026.11437157)
+- **Machine Learning-Based Early Risk Stratification Framework for Chronic Kidney Disease Progression** — IEEE ICSFT 2026, Bengaluru, India · *Accepted, oral presentation* · [DOI](https://doi.org/10.1109/ICSFT66733.2026.11507621)
+
+---
+
+## Background
+
+**BSc in Computer Science and Engineering**, American International University-Bangladesh.
+Academic record Spring 2017 to Spring 2024, degree awarded 9 April 2025, CGPA 3.58/4.00.
+
+**Credentials.** [Claude Certified Architect - Foundations](https://www.credly.com/badges/81727e2e-c44f-455d-9c20-4e8b0d45a56f)
+(Sep 2026) · HackerRank JavaScript (Intermediate), Problem Solving (Intermediate), SQL (Basic) and
+Java (Basic) · [SecureFlag secure coding badge](https://www.secureflag.com/b?605ce7d7-16d6-44f7-bcc9-833c74b20ad4)
+· [Data Structures, UC San Diego on Coursera](https://www.coursera.org/account/accomplishments/verify/PNA27NRLMF4G)
+· 300-hour Data Science Modelling, Integration and Processing course.
+
+**Competitive programming.** A historical total of 2,100+ problems solved across
+[LeetCode](https://leetcode.com/u/Hasebul/) and other judges, team Honorable Mentions in the Asia
+Dhaka Regional Site Online Preliminary Contest in 2019 and 2021, and two years mentoring juniors
+in the AIUB competitive programming community.
+
+---
+
+## Tech stack
+
+**Languages** Java · Kotlin · TypeScript · JavaScript · Python · C++ · Bash · SQL
+
+**Backend** Spring Boot · Spring · Hibernate · NestJS · Node.js · Express
+
+**Frontend** Angular · React · Next.js
+
+**Data and search** PostgreSQL · MySQL · MongoDB · Oracle · Redis · Elasticsearch
+
+**Platform and cloud** Kubernetes (EKS) · Docker · AWS · Azure · ArgoCD · Kustomize · Kong · Varnish · Fastly · Terraform/OpenTofu
+
+**Delivery** GitHub Actions · Jenkins · GitLab CI · ELK · JUnit · Mockito
+
+**AI** LangChain · Claude Code and MCP tooling · scikit-learn
 
 ---
 
 ## Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/hasebul" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/hasebul" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hasebulhassan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.leetcode.com/hasebul_hassan_chowdhury" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://hasebul21.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/Hasebul/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.hackerrank.com/hasebul_hassan" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/hasebulhassan21" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
-
----
-
-## GitHub Stats
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=hasebul21&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasebul21&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
-</p>
-
 <!--
-  NOTE: the classic github-readme-stats cards (stats + top-langs) are intentionally
-  omitted. The public instance at github-readme-stats.vercel.app currently returns
-  HTTP 503 / DEPLOYMENT_PAUSED, so those images render as broken on every profile
-  that embeds it. The github-profile-trophy instance is also down (HTTP 402).
-
-  To get the stats cards back, self-host your own instance — it takes ~5 minutes:
-    1. Fork https://github.com/anuraghazra/github-readme-stats
-    2. Deploy the fork to Vercel (it ships a vercel.json, no config needed)
-    3. Create a GitHub PAT with `repo` scope, add it to Vercel as env var PAT_1
-    4. Re-add the cards below, pointing at your own domain:
-
-  <img src="https://YOUR-APP.vercel.app/api?username=hasebul21&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
-  <img src="https://YOUR-APP.vercel.app/api/top-langs/?username=hasebul21&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
-
-  Self-hosting also fixes the rate limiting that makes the public instance flaky,
-  and lets you set count_private=true to include your private platform work.
+  Deliberately omitted, because these public instances currently serve errors and would
+  render as broken images on the profile:
+    - github-readme-stats.vercel.app          -> HTTP 503 (DEPLOYMENT_PAUSED)
+    - github-readme-activity-graph.vercel.app -> HTTP 402
+    - github-profile-trophy                   -> HTTP 402
+  To bring the stats cards back, self-host a fork of anuraghazra/github-readme-stats on
+  Vercel with a PAT in the PAT_1 environment variable, then point the images at it.
 -->
-
