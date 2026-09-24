@@ -68,10 +68,7 @@ Three peer-reviewed IEEE conference papers in applied machine learning, 2026.
 Academic record Spring 2017 to Spring 2024, degree awarded 9 April 2025, CGPA 3.58/4.00.
 
 **Credentials.** [Claude Certified Architect - Foundations](https://www.credly.com/badges/81727e2e-c44f-455d-9c20-4e8b0d45a56f)
-(Sep 2026) · HackerRank JavaScript (Intermediate), Problem Solving (Intermediate), SQL (Basic) and
-Java (Basic) · [SecureFlag secure coding badge](https://www.secureflag.com/b?605ce7d7-16d6-44f7-bcc9-833c74b20ad4)
-· [Data Structures, UC San Diego on Coursera](https://www.coursera.org/account/accomplishments/verify/PNA27NRLMF4G)
-· 300-hour Data Science Modelling, Integration and Processing course.
+(Sep 2026) · 300-hour Data Science Modelling, Integration and Processing course.
 
 **Competitive programming.** A historical total of 2,100+ problems solved across
 [LeetCode](https://leetcode.com/u/Hasebul/) and other judges, team Honorable Mentions in the Asia
