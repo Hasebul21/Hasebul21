@@ -1,7 +1,7 @@
 <h1 align="center">Hasebul Hassan Chowdhury</h1>
 
 <p align="center">
-  <b>Software Engineer</b> · Dhaka, Bangladesh · <a href="https://www.cefalo.com/">Cefalo Bangladesh Ltd</a>
+  <b>Software Engineer</b> · Dhaka, Bangladesh · <a href="https://www.cefalo.com/en/about-us">Cefalo</a>
 </p>
 
 <p align="center">
@@ -40,26 +40,15 @@ support, listed below. I am now working toward graduate study in AI and software
 
 ## Clients I build software for
 
-Through Cefalo I work with Norwegian and Nordic product organisations.
+[Cefalo](https://www.cefalo.com/en/about-us) is a Norwegian software development company with a
+head office in Oslo and a development office in Dhaka, working with Norwegian clients from
+startups to established media groups. These are the product organisations I have built for.
 
 | Client | What it is | My work |
 | --- | --- | --- |
 | **[DN Media Group](https://www.dngroup.com/)** | Oslo media group publishing business journalism since 1889, including *Dagens Næringsliv*, *TradeWinds*, *Upstream*, *IntraFish* and *Recharge* | Edge and gateway tier, Kubernetes GitOps, shared CI workflows |
 | **[Stiftelsen Asta](https://www.stiftelsenasta.no/)** | Oslo foundation for archive arrangement, digitisation and electronic archives; builds the Asta 7 platform and Arkivportalen | Java and Kotlin backend, import and export performance, JUnit 5, Docker |
 | **[Zaui Stay](https://offer.zaui.com/partnersolutions/stay/)** | Cloud property management system for hotels, with booking engine, channel manager and point of sale | Java backend and API integrations, Angular i18n across 20+ markets |
-
----
-
-## Selected projects
-
-What you can browse here is the other half of the work: applications I build to learn things
-properly rather than skim them.
-
-- **[trackr.jobs](https://github.com/Hasebul21/trackr.jobs)** — job application tracker, TypeScript
-- **[PaperTrail](https://github.com/Hasebul21/PaperTrail)** — document workflow application, TypeScript
-- **[quick-chat](https://github.com/Hasebul21/quick-chat)** — real-time chat, Spring Boot and Angular, Dockerised
-- **[ai-powered-spring-apps](https://github.com/Hasebul21/ai-powered-spring-apps)** — wiring LLMs into Spring services
-- **[cloud-sre-journey](https://github.com/Hasebul21/cloud-sre-journey)** — notes and write-ups from the platform work
 
 ---
 
