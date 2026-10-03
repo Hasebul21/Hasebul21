@@ -41,7 +41,7 @@ the ones I run every day easier to operate and more reliable.
 - 🌐 **Gateway and edge for a news media group**: Kong, Varnish VCL and Fastly managed with Terraform; Kubernetes (EKS) workloads reconciled by ArgoCD and Kustomize.
 - 👥 **Led a team of four engineers** on an Applicant Tracking System (TypeScript, NestJS, React) with role-based access control and HackerRank assessments.
 - 🔁 **Release pipelines and observability**: GitHub Actions, Docker and AWS EC2, ELK logging, Slack and Jenkins notifications.
-- 🤖 **Agentic engineering harness**: custom Claude Code subagents, skills, safety hooks and MCP integrations; cut always-on context by a third with lazy-loaded skills.
+- 🤖 **Personal agentic engineering harness**: custom Claude Code subagents, skills, safety hooks and MCP integrations; cut always-on context by a third with lazy-loaded skills.
 - 🌍 **Angular internationalisation** and booking automation for a hotel property management system.
 
 ## 🧭 Career path
@@ -143,6 +143,6 @@ Co-author of three peer-reviewed IEEE conference papers in applied machine learn
 
 ## 🏆 Competitive programming
 
-- **2,100+ problems** solved across online judges over the years, including **800+ on [LeetCode](https://leetcode.com/u/Hasebul/)** (top 7.6% global rank).
+- **2,100+ problems** solved across online judges over the years, including **800+ on [LeetCode](https://leetcode.com/u/Hasebul/)** (top 7.6% global rank when last recorded).
 - Team **Honorable Mentions**, Asia Dhaka Regional Site Online Preliminary Contest, 2019 and 2021.
 - **Junior mentor** in the AIUB Competitive Programming Community, 2019–2021.
