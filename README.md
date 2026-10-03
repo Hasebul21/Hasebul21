@@ -141,15 +141,17 @@ Co-author of three peer-reviewed IEEE conference papers in applied machine learn
 - 🏅 **[Claude Certified Architect – Foundations](https://www.credly.com/badges/81727e2e-c44f-455d-9c20-4e8b0d45a56f)**, Anthropic, September 2026.
 - 📊 **Data Science Modelling, Integration and Processing**, 300-hour course.
 
-### 🏆 Programming contests at university
+### 🏆 Competitive programming at university
+
+I was actively involved in competitive programming and ACM ICPC-style contests during my undergraduate studies, as a member and later junior mentor of the AIUB Competitive Programming Community (ACPC).
 
 | Year | Contest | Result | Link |
 | :-- | :-- | :-- | :-- |
 | 2022 | BUET CSE Fest 2022 Inter University Programming Contest, team AIUB_Vikings | Participant | [Contest](https://toph.co/c/buet-inter-university-2022) |
 | 2021 | Intra AIUB Programming Contest, Fall 2021–22 | 10th place | [Standings](https://oj.synapse0.com/standings.php?contest=1013) |
-| 2021 | ICPC Asia Dhaka Regional Site Online Preliminary Contest, team AIUB_Vikings | Honorable Mention | [Standings](https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings) |
-| 2019 | ICPC Asia Dhaka Regional Site Online Preliminary Contest, team entry | Honorable Mention | [Standings](https://algo.codemarshal.org/contests/icpc-dhaka-19-preli/standings) |
-| 2018 | AIUB CS Fest Programming Contest | 6th place | [Standings](https://toph.co/c/aiub-cs-fest-2018-j/standings?start=0) |
+| 2020 | ICPC Asia Dhaka Regional 2020, Online Preliminary Contest (held 7 April 2021), team AIUB_Vikings | Honorable Mention | [Standings](https://algo.codemarshal.org/contests/icpc-dhaka-20-preli/standings) |
+| 2019 | ICPC Asia Dhaka Regional 2019, Online Preliminary Contest | Honorable Mention | [Standings](https://algo.codemarshal.org/contests/icpc-dhaka-19-preli/standings) |
+| 2018 | AIUB CS Fest 2018 Programming Contest | 6th place | [Standings](https://toph.co/c/aiub-cs-fest-2018-j/standings?start=0) |
 
-- 💻 **2,100+ problems** solved across Codeforces, CodeChef, SPOJ, UVa, AtCoder and LeetCode, including **800+ on [LeetCode](https://leetcode.com/u/Hasebul/)** (top 7.6% global rank when last recorded).
-- 🧑‍🏫 **Junior mentor** in the AIUB Competitive Programming Community, 2019–2021: taught data structures and algorithms, reviewed solutions and guided contest preparation.
+- 💻 **2,100+ problems** solved across Codeforces, CodeChef, HackerRank, UVa, LightOJ, SPOJ, AtCoder and LeetCode, including **800+ on [LeetCode](https://leetcode.com/u/Hasebul/)** (top 7.6% global rank when last recorded).
+- 🧑‍🏫 **Junior mentor, ACPC**, 2019–2021: taught data structures and algorithms, reviewed solutions and guided contest preparation.
