@@ -135,7 +135,6 @@ I was actively involved in competitive programming and ACM ICPC-style contests d
 
 | Year | Contest | Result | Link |
 | :-- | :-- | :-- | :-- |
-| 2022 | BUET CSE Fest 2022 Inter University Programming Contest, team AIUB_Vikings | Participant | [Contest](https://toph.co/c/buet-inter-university-2022) |
 | 2021 | Intra AIUB Programming Contest, Fall 2021–22 (Senior) | 10th place | [Standings](https://oj.synapse0.com/standings.php?contest=1013) |
 | 2020 | ICPC Asia Dhaka Regional 2020, Online Preliminary Contest (held 7 April 2021), team AIUB_Vikings | Honorable Mention | Certificate |
 | 2019 | ICPC Asia Dhaka Regional 2019, Online Preliminary Contest | Honorable Mention | Certificate |
