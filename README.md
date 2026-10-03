@@ -10,6 +10,8 @@
   <a href="https://linkedin.com/in/hasebul">LinkedIn</a> ·
   <a href="mailto:hasebulhassan21@gmail.com">Email</a> ·
   <a href="https://orcid.org/0009-0000-7889-5412">ORCID</a> ·
+  <a href="https://scholar.google.com/citations?user=2Nk0_hIAAAAJ">Google Scholar</a> ·
+  <a href="https://www.researchgate.net/profile/Hasebul-Hassan-Chowdhury">ResearchGate</a> ·
   <a href="https://leetcode.com/u/Hasebul/">LeetCode</a>
 </p>
 
@@ -28,10 +30,10 @@ the ones I run every day easier to operate and more reliable.
 
 <table>
   <tr>
-    <td align="center" width="25%"><h3>4+ years</h3><sub>backend and platform engineering</sub></td>
-    <td align="center" width="25%"><h3>3 clients</h3><sub>media, archives, hospitality</sub></td>
-    <td align="center" width="25%"><h3>3 papers</h3><sub>IEEE conferences, 2026</sub></td>
-    <td align="center" width="25%"><h3>2,100+</h3><sub>competitive programming problems</sub></td>
+    <td align="center" width="25%"><b>4+ years</b><br/><sub>backend and platform engineering</sub></td>
+    <td align="center" width="25%"><b>3 clients</b><br/><sub>media, archives, hospitality</sub></td>
+    <td align="center" width="25%"><b>3 papers</b><br/><sub>IEEE conferences, 2026</sub></td>
+    <td align="center" width="25%"><b>2,100+</b><br/><sub>competitive programming problems</sub></td>
   </tr>
 </table>
 
@@ -59,7 +61,7 @@ the ones I run every day easier to operate and more reliable.
 <br/>
 
 - **DN Media Group**: Oslo media group publishing business journalism since 1889, including *Dagens Næringsliv*, *TradeWinds*, *Upstream*, *IntraFish* and *Recharge*.
-- **Stiftelsen Asta**: Oslo foundation for archive arrangement, digitisation and electronic archives; builds the Asta 7 platform and Arkivportalen.
+- **Stiftelsen Asta**: Oslo foundation for archive arrangement, digitisation and electronic archives; operates the Asta 7 platform and Arkivportalen.
 - **Zaui Stay**: cloud property management system for hotels, with booking engine, channel manager and point of sale.
 - **Cefalo**: Norwegian software development company with a head office in Oslo and a development office in Dhaka.
 
@@ -90,7 +92,7 @@ the ones I run every day easier to operate and more reliable.
     </td>
     <td width="50%" valign="top">
       <h3>🧳 Trackr.jobs</h3>
-      Aggregator for international software jobs with visa sponsorship: pulls six sources, normalises, deduplicates and scores them, refreshed by cron every two hours.<br/><br/>
+      Aggregator for international software jobs with visa sponsorship: pulls six sources, normalises, deduplicates and scores them, regularly refreshed by a scheduled job.<br/><br/>
       <code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Tailwind</code><br/><br/>
       <a href="https://dev-sites-pi.vercel.app">Live demo</a> · <a href="https://github.com/Hasebul21/trackr.jobs">Code</a>
     </td>
@@ -109,25 +111,11 @@ the ones I run every day easier to operate and more reliable.
       <a href="https://paper-trail-beta.vercel.app">Live demo</a> · <a href="https://github.com/Hasebul21/PaperTrail">Code</a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ SRE Notebook</h3>
-      My study tracker and notebook for cloud and site reliability engineering.<br/><br/>
-      <code>SRE</code> <code>Cloud</code> <code>Study tracker</code><br/><br/>
-      <a href="https://sre-notebook.vercel.app">Live site</a> · <a href="https://github.com/Hasebul21/cloud-sre-journey">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Agentic AI practice</h3>
-      A structured Python workspace for learning and practising agentic AI with LangChain.<br/><br/>
-      <code>Python</code> <code>LangChain</code> <code>LLM agents</code><br/><br/>
-      <a href="https://github.com/Hasebul21/generative-ai-using-langchain">Code</a>
-    </td>
-  </tr>
 </table>
 
 ## 📄 Research
 
-Co-author of three peer-reviewed IEEE conference papers in applied machine learning, 2026.
+Co-author of three peer-reviewed IEEE conference papers in applied machine learning, 2026. Profiles: [Google Scholar](https://scholar.google.com/citations?user=2Nk0_hIAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Hasebul-Hassan-Chowdhury) · [ORCID](https://orcid.org/0009-0000-7889-5412).
 
 | Paper | Venue | Status |
 | :-- | :-- | :-- |
