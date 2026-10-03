@@ -1,23 +1,19 @@
-<!-- Header -->
+<h1 align="center">Hasebul Hassan Chowdhury</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Hasebul%20Hassan%20Chowdhury&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Platform%20%26%20Backend%20%C2%B7%20Applied%20ML&descSize=18&descAlignY=58&animation=fadeIn" alt="Hasebul Hassan Chowdhury" width="100%" />
+  <b>Software Engineer</b> · Platform &amp; Backend · Applied ML<br/>
+  Dhaka, Bangladesh · <a href="https://www.cefalo.com/en/about-us">Cefalo</a>
 </p>
 
 <p align="center">
-  <a href="https://hasebul21.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=4%2B+years+building+backend+and+platform+systems;Kong+%C2%B7+Varnish+%C2%B7+Fastly+%C2%B7+Kubernetes+%C2%B7+ArgoCD;Java+%C2%B7+Kotlin+%C2%B7+TypeScript+%C2%B7+Spring+Boot+%C2%B7+NestJS;Co-author+of+three+IEEE+ML+papers+(2026);Interested+in+AI+agents+for+cloud+operations" alt="Typing intro" />
-  </a>
+  <a href="https://hasebul21.github.io/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/hasebul">LinkedIn</a> ·
+  <a href="mailto:hasebulhassan21@gmail.com">Email</a> ·
+  <a href="https://orcid.org/0009-0000-7889-5412">ORCID</a> ·
+  <a href="https://leetcode.com/u/Hasebul/">LeetCode</a>
 </p>
 
-<p align="center">
-  <a href="https://hasebul21.github.io/"><img src="https://img.shields.io/badge/Portfolio-hasebul21.github.io-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/hasebul"><img src="https://img.shields.io/badge/LinkedIn-hasebul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hasebulhassan21@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://orcid.org/0009-0000-7889-5412"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://leetcode.com/u/Hasebul/"><img src="https://img.shields.io/badge/LeetCode-800%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</p>
-
-<br/>
+---
 
 ## 👋 About me
 
@@ -71,34 +67,16 @@ the ones I run every day easier to operate and more reliable.
 
 ## 🛠️ Tech stack
 
-<p align="center"><b>Languages</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,js,py,cpp,bash&theme=dark" alt="Languages" />
-</p>
-
-<p align="center"><b>Backend and frontend</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,angular,react,nextjs,tailwind&theme=dark" alt="Backend and frontend" />
-</p>
-
-<p align="center"><b>Data and search</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,prisma&theme=dark" alt="Data and search" />
-</p>
-
-<p align="center"><b>Platform, cloud and delivery</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,terraform,githubactions,jenkins,gitlab,linux&theme=dark" alt="Platform and cloud" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kong-003459?style=flat-square&logo=kong&logoColor=white" alt="Kong" />
-  <img src="https://img.shields.io/badge/Varnish-1F2937?style=flat-square" alt="Varnish" />
-  <img src="https://img.shields.io/badge/Fastly-FF282D?style=flat-square&logo=fastly&logoColor=white" alt="Fastly" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
-  <img src="https://img.shields.io/badge/Kustomize-326CE5?style=flat-square" alt="Kustomize" />
-  <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black" alt="OpenTofu" />
-  <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticstack&logoColor=white" alt="ELK" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Claude%20Code%20%2B%20MCP-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code and MCP" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-</p>
+| Area | Tools |
+| :-- | :-- |
+| **Languages** | Java · Kotlin · TypeScript · JavaScript · Python · C++ · Bash · SQL |
+| **Backend** | Spring Boot · NestJS · Node.js · Express |
+| **Frontend** | Angular · React · Next.js · Tailwind |
+| **Data and search** | PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch · Prisma |
+| **Platform and edge** | Kubernetes (EKS) · Docker · AWS · Azure · Kong · Varnish · Fastly |
+| **Infra as code and GitOps** | Terraform/OpenTofu · ArgoCD · Kustomize |
+| **Delivery and observability** | GitHub Actions · Jenkins · GitLab CI · ELK |
+| **AI** | LangChain · Claude Code and MCP · scikit-learn |
 
 ## 📦 Featured projects
 
@@ -168,26 +146,3 @@ Co-author of three peer-reviewed IEEE conference papers in applied machine learn
 - **2,100+ problems** solved across online judges over the years, including **800+ on [LeetCode](https://leetcode.com/u/Hasebul/)** (top 7.6% global rank).
 - Team **Honorable Mentions**, Asia Dhaka Regional Site Online Preliminary Contest, 2019 and 2021.
 - **Junior mentor** in the AIUB Competitive Programming Community, 2019–2021.
-
-## 📊 GitHub and LeetCode activity
-
-> Most of my day-to-day work is in private client repositories, so the public graph shows only part of it.
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hasebul21&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasebul21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Hasebul21&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
-  <img height="165" src="https://leetcard.jacoblin.cool/Hasebul?theme=dark&font=JetBrains%20Mono&border=0&radius=12" alt="LeetCode stats" />
-</p>
-
-<!--
-  Re-probe a widget before adding it. On 2026-10-03 github-readme-activity-graph and
-  github-profile-trophy still returned HTTP 402 and are left out.
--->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=110&section=footer" alt="" width="100%" />
-</p>
