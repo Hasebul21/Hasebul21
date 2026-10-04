@@ -99,12 +99,6 @@ the ones I run every day easier to operate and more reliable.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Trading Portfolio</h3>
-      Tracks transactions, holdings and profit and loss with market-data API integration.<br/><br/>
-      <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code><br/><br/>
-      <a href="https://hasebul-trading-portfolio.vercel.app/">Live demo</a>
-    </td>
-    <td width="50%" valign="top">
       <h3>📚 PaperTrail</h3>
       A calm PDF reader for the web: upload books, highlight in six colours, take notes and resume where you left off.<br/><br/>
       <code>Next.js</code> <code>Auth.js</code> <code>Prisma</code> <code>Vercel Blob</code><br/><br/>
