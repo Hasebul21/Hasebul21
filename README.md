@@ -120,6 +120,7 @@ Co-author of three peer-reviewed IEEE conference papers in applied machine learn
 ## 🎓 Education and credentials
 
 - 🎓 **BSc in Computer Science and Engineering**, American International University-Bangladesh (AIUB), degree awarded April 2025, CGPA 3.58/4.00.
+- 🏅 **Zetaris x SpaceXSI AI Data Harness Solution Developer**, Zetaris, November 2026: awarded to developers who built AI agents during the Open Agent Hackathon with SpaceXSI's coding agents on the Zetaris Data Harness. [Verify credential](https://www.zetaris.com/credentials/ztr-dhsd-a2vejh)
 - 🏅 **[Claude Certified Architect – Foundations](https://www.credly.com/badges/81727e2e-c44f-455d-9c20-4e8b0d45a56f)**, Anthropic, September 2026.
 - 📊 **Data Science Modelling, Integration and Processing**, 300-hour course.
 
